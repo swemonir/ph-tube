@@ -123,7 +123,7 @@ if(videos.length==0){
         <img class="w-[120px]" src="assets/Icon.png" alt="">
         <h2 class="text-2xl font-bold">Oops!! Sorry, There is no <br> content here</h2>
     </div>
-    `
+    `;
     hideLoader()
     return;
     
